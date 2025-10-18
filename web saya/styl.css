@@ -1,0 +1,64 @@
+*,
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(26, 26, 86);
+}
+.judul-pertama{
+    background-color: white;
+    font-size: 50px;
+    color: rgb(26, 26, 86);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hoby{
+    color: white;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.foto-pertama{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.data-pertama{
+    background-color: white;
+    color: rgb(26, 26, 86);
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.data-kedua {
+    color: red;
+    text-decoration: none;
+}
+.media-pertama{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+.media-kedua{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.media-ketiga{
+    color: white;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
